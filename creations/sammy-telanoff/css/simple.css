@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+}
+#menu {
+  list-style: none;
+  padding: 0;
+  margin: 25px 0;
+  background: #708090;
+  border-radius: 5px;
+}
+#menu li {
+  display: inline-block;
+  padding: 10px;
+}
+#menu a{
+  color:white
+}
+h1 {
+  color: dodgerblue;
+  font-size: 50px;
+  font-style: italic;
+  font-family: inherit;
+}
+h3 {
+  color: #E16F00;
+  font-style: oblique;
+}

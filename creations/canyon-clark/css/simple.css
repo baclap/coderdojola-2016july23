@@ -1,0 +1,17 @@
+body {
+font-family:monospace;
+color:black;
+}
+
+#menu {
+  list-style: none;
+  padding: 0;
+  margin: 25px 0;
+  background: gold;
+  border-radius: 5px;
+}
+
+#menu li {
+  display: inline-block;
+  padding: 10px;
+}

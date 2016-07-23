@@ -1,0 +1,27 @@
+body {
+font-family: sans-serif;
+color: red
+}
+       #menu {
+         list-style: none;
+         padding: 0;
+         margin: 10px 0;
+         background: black;
+         border-radius: 10px;
+       }
+
+       #menu li {
+         display: inline-block;
+         padding: 10px;
+       }
+
+       #menu a {
+         color: currentColor;
+       }
+
+       h1 {
+         color: dodgerblue;
+         fontsize: 100 px;
+         font-style: italic;
+         font-family: fantasy;
+       }
